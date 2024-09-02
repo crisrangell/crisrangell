@@ -37,7 +37,7 @@
 - [Blog Literário](https://github.com/crisrangell/projeto-blogliterario)
 - [Lista Studio Ghibli](https://github.com/crisrangell/projeto-ghibli)
 
-## 🔥 Habilidades
+## Habilidades
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Linguagem de Programação</h3>

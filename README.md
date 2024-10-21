@@ -36,7 +36,9 @@
 ## Portfólio:
 - [Blog Literário](https://github.com/crisrangell/projeto-blogliterario)
 - [Lista Studio Ghibli](https://github.com/crisrangell/projeto-ghibli)
-
+- [Projeto Login - Responsivo](https://github.com/crisrangell/projeto-login)
+- [Projeto Seriado Nostálgicos](https://github.com/crisrangell/projeto-seriados)
+  
 ## Habilidades
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">

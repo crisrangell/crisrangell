@@ -19,7 +19,7 @@
 
   - 💼 Buscando a minha primeira oportunidade na área.
 
-  - 🎓 Com 32 anos, formada em Administração e atualmente no penúltimo módulo do curso de HTML5 E CSS3.
+  - 🎓 Com 32 anos, formada em Administração e atualmente no último módulo do curso de HTML5 E CSS3.
     
   - 💬 Criando experiências em desafios criados em aula e em projetos pessoais, disponíveis aqui no meu GitHub.
 

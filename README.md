@@ -7,30 +7,37 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"> 🌱Olá Mundo! </h1></summary>
+    <summary><h1 style="display: inline-block"> 🌱Olá , seja bem vindo(a)! </h1></summary>
 </div>
 
 
 <!-- Presentation -->
 <p>
-  Eu sou a Cris, estou iniciando uma carreira na área de Tecnologia.
+  Eu sou a Cris, estou iniciando minha carreira na área de programação e desenvolvimento web.
 
-  - 🎲 Atualmente estudando MySQL.
+  - 🎲 Atualmente aprofundando meus conhecimentos em MySQL.
     
-  - 🛠️Curso de HTML5 e CSS3 finalizado em 2024.
+  - 🛠️ HTML5 e CSS3 finalizados em 2024.
 
-  - 💼 Buscando mais experiência na área para ingressar no mercado de trabalho.
+  - 🚀 À procura do meu primeiro desafio profissional na área.
 
-  - 🎓 Formada em Administração.
+  - 🎓 Formação em Administração, com foco em transição para a área de TI.
     
-  - 💬 Criando experiências em desafios criados em aula e em projetos pessoais, disponíveis aqui no meu GitHub.
+  - 💬 Desenvolvendo projetos práticos e desafios aplicados de cursos, disponíveis no meu GitHub
+ 
 
 </p>
 
 
-<!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cristianerangell.)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianerangel/)
+
+<p align="center">
+  <a href="mailto:cristiane.rangelrodrigues@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-cristiane.rangelrodriguess%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/cristianerangel">
+    <img src="https://img.shields.io/badge/LinkedIn-Cristiane_Rangel-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 
 <!-- Portfolio -->

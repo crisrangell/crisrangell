@@ -13,13 +13,15 @@
 
 <!-- Presentation -->
 <p>
-  Eu sou a Cris, estou iniciando uma carreira na área de Web Development.
+  Eu sou a Cris, estou iniciando uma carreira na área de Tecnologia.
 
-  - 🛠️ Atualmente estudando as linguagens de HTML5 e CSS3.
+  - 🎲 Atualmente estudando MySQL.
+    
+  - 🛠️Curso de HTML5 e CSS3 finalizado em 2024.
 
-  - 💼 Buscando a minha primeira oportunidade na área.
+  - 💼 Buscando mais experiência na área para ingressar no mercado de trabalho.
 
-  - 🎓 Com 32 anos, formada em Administração e atualmente no último módulo do curso de HTML5 E CSS3.
+  - 🎓 Formada em Administração.
     
   - 💬 Criando experiências em desafios criados em aula e em projetos pessoais, disponíveis aqui no meu GitHub.
 
@@ -28,12 +30,11 @@
 
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cristianerangell.)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rangell.art/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianerangel/)
 
 
 <!-- Portfolio -->
-## Portfólio:
+## Portfólio Web Development.:
 - [Blog Literário](https://github.com/crisrangell/projeto-blogliterario)
 - [Lista Studio Ghibli](https://github.com/crisrangell/projeto-ghibli)
 - [Projeto Login - Responsivo](https://github.com/crisrangell/projeto-login)
@@ -46,6 +47,8 @@
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+     <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     
   </div>
   
@@ -53,5 +56,6 @@
   <div style="flex-basis: 48%;">
     <h3>Ferramentas</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </div>
   

@@ -25,14 +25,13 @@
     
   - 💬 Desenvolvendo projetos práticos e desafios aplicados de cursos, disponíveis no meu GitHub
  
-
 </p>
 
 
 
 <p align="center">
-  <a href="mailto:cristiane.rangelrodrigues@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-cristiane.rangelrodriguess%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:cristiane.rangelrodrigues@gmail.com">
+    <img src="https://img.shields.io/badge/Email-cristiane.rangelrodrigues%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/cristianerangel">
     <img src="https://img.shields.io/badge/LinkedIn-Cristiane_Rangel-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
